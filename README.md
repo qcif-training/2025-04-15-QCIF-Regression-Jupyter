@@ -1,8 +1,11 @@
 # 2025-04-15-QCIF-Regression-Jupyter
  
-This repository contains the set of Jupyter notebooks used to deliver the *Introdcution to Regression for Machine Learning* workshop, online to the National Compute Infrastructure (NCI) on 15th April, 2025 and run on their Jupyter notebook system via the NCI Portal [are.nci.org.au](https://are.nci.org.au/)
+This repository contains the set of Jupyter notebooks used to deliver the *Introduction to Regression for Machine Learning* workshop, online to the National Compute Infrastructure (NCI) on 15th April, 2025 and run on their Jupyter notebook system via the NCI Portal [are.nci.org.au](https://are.nci.org.au/)
 
-The workbooks have also been exported as PDF and are available in the [pdf](./pdf) directory. 
+The workbooks have been exported as PDF and are available in the [pdf](./pdf) directory. 
+
+There are a set of images used for workbook *07_regression_maci_image_data.ipynb* in the ```./data``` directory  
+which are published under the creative commons license terms Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### How-to setup a Jupyter server
 TO execute the code in the Jupyter workbooks they must be run on a Jupyter server.  
