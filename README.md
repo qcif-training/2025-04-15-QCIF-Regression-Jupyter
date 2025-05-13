@@ -19,7 +19,7 @@ Juypter server. A similar proceedure can be used in an NCI project account or on
 python3 -m venv venv_regression
 
 # Activate the virtual environment
-source myenv_cmdstan/bin/activate  # On macOS/Linux, different on Windows: .venv\Scripts\activate
+source venv_regression/bin/activate  # On macOS/Linux, different on Windows: .venv\Scripts\activate
 
 # Install packages
 pip install jupyter ipykernel ipywidgets cmdstanpy[all] jupyter numpy scikit-learn pandas matplotlib statsmodels bokeh
