@@ -13,7 +13,7 @@ The following instructions install the same libraries as used in for the tutoria
 The procedure uses a Python virtual environment and then registers the virtual environment with the 
 Juypter server. A similar proceedure can be used in an NCI project account or on a laptop.
 
-  N.B. make sure the ```<path/to>``` value is set to where your virtual environemnt has been created.
+  N.B. make sure the ```<path/to>``` value is set to where your virtual environment has been created.
 ```shell
 # Create a Python virtual environment:
 python3 -m venv venv_regression
