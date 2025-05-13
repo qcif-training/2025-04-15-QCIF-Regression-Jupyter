@@ -22,7 +22,7 @@ python3 -m venv venv_regression
 source myenv_cmdstan/bin/activate  # On macOS/Linux, different on Windows: .venv\Scripts\activate
 
 # Install packages
-pip install jupyter ipykernel ipywidgets cmdstanpy[all] jupyter numpy scikit-learn pandas matplotlib bokeh statsmodels bokeh
+pip install jupyter ipykernel ipywidgets cmdstanpy[all] jupyter numpy scikit-learn pandas matplotlib statsmodels bokeh
 
 # Install a ipython kernel configuration (change the value of --prefix= to match where your venv directory is)
 python3 -m ipykernel install --prefix=<path/to>/venv_regression  --name=venv_regression --display-name "Python (venv_regression)"
