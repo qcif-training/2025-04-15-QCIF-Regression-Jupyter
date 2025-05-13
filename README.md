@@ -8,7 +8,7 @@ There are a set of images used for workbook *07_regression_maci_image_data.ipynb
 which are published under the creative commons license terms Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### How-to setup a Jupyter server
-TO execute the code in the Jupyter workbooks they must be run on a Jupyter server.  
+To execute the code in the Jupyter workbooks they must be run on a Jupyter server.  
 The following instructions install the same libraries as used in for the tutorial session.  
 The procedure uses a Python virtual environment and then registers the virtual environment with the 
 Juypter server. A similar proceedure can be used in an NCI project account or on a laptop.
